@@ -1,0 +1,7 @@
+# Secrets: never commit these
+.env
+*.key
+
+# Python caches
+__pycache__/
+*.pyc
